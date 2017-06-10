@@ -2,9 +2,9 @@
 
 
 ## Index
-[Beans] - User-controlled data
-[Brewer] - Department idea share
-[Cereal] - Legislative twitter/visualizations on twitter
+[Beans] - User-controlled data  
+[Brewer] - Department idea share  
+[Cereal] - Legislative twitter/visualizations on twitter  
 
 
 
