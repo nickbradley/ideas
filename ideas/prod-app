@@ -1,0 +1,7 @@
+# Productivity Paradigm Application
+Assume you have a todo list app and a time tracking app.  
+Problem is remembering to start/stop the timer.  
+I propose have a full screen message that requires you to pick a task to work on before you can interact with your computer.  
+When working on an issue, notifications should be blocked.  
+Use a FlowLight.  
+Little reminders should ensure that you don't get distracted (maybe you need to request an app to be launched instead of just switching to it).  
